@@ -11,6 +11,6 @@ Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
 Video Walkthrough 
-https://github.com/raghavnyati90/Magical-Grid/blob/master/magical_grid.gif
+<img src='https://github.com/raghavnyati90/Magical-Grid/blob/master/magical_grid.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LiceCap.
