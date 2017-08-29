@@ -11,5 +11,6 @@ Video Walkthrough
 Here's a walkthrough of implemented user stories:
 
 Video Walkthrough 
+https://github.com/raghavnyati90/Magical-Grid/blob/master/magical_grid.gif
 
 GIF created with LiceCap.
