@@ -14,3 +14,5 @@ Video Walkthrough
 <img src='https://github.com/raghavnyati90/Magical-Grid/blob/master/magical_grid.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with LiceCap.
+
+Link used: https://www.youtube.com/watch?v=DPJh4qnzBXE
