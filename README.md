@@ -2,8 +2,6 @@
 
 MagicalGrid is a practice project to learn animations on UIView.
 
-Submitted by: Raghav Nyati
-
 Time spent: 2 hours spent in total
 
 Video Walkthrough
